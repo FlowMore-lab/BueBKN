@@ -1,0 +1,167 @@
+===== TELEGRAM =====
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    telegram.org
+Addresses:  2001:67c:4e8:f004::9
+	  149.154.167.99
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    t.me
+Addresses:  2001:67c:4e8:f004::9
+	  149.154.167.99
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    web.telegram.org
+Addresses:  2001:67c:4e8:f004::9
+	  149.154.167.99
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    api.telegram.org
+Addresses:  2001:67c:4e8:f004::9
+	  149.154.166.110
+
+
+===== WHATSAPP =====
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    whatsapp.com
+Addresses:  2a03:2880:f213:c3:face:b00c:0:167
+	  157.240.205.60
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    mmx-ds.cdn.whatsapp.net
+Addresses:  2a03:2880:f213:c3:face:b00c:0:167
+	  157.240.205.60
+Aliases:  web.whatsapp.com
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    wa.me
+Addresses:  2a03:2880:f213:c3:face:b00c:0:167
+	  157.240.205.60
+
+
+===== INSTAGRAM =====
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    instagram.com
+Addresses:  2a03:2880:f213:e4:face:b00c:0:4420
+	  157.240.205.174
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    z-p42-instagram.c10r.instagram.com
+Addresses:  2a03:2880:f213:e4:face:b00c:0:4420
+	  157.240.205.174
+Aliases:  www.instagram.com
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    instagram.c10r.instagram.com
+Addresses:  2a03:2880:f213:ca:face:b00c:0:43fe
+	  157.240.205.63
+Aliases:  i.instagram.com
+
+
+===== TWITTER/X =====
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    twitter.com
+Address:  172.66.0.227
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    x.com
+Address:  172.66.0.227
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    t.co
+Address:  162.159.140.229
+
+
+===== YOUTUBE =====
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    youtube.com
+Addresses:  2a00:1450:4010:c0e::be
+	  2a00:1450:4010:c0e::88
+	  2a00:1450:4010:c0e::5b
+	  2a00:1450:4010:c0e::5d
+	  74.125.131.93
+	  74.125.131.91
+	  74.125.131.190
+	  74.125.131.136
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    googlevideo.com
+Addresses:  2a00:1450:4010:c05::69
+	  2a00:1450:4010:c05::93
+	  2a00:1450:4010:c05::63
+	  2a00:1450:4010:c05::6a
+	  64.233.162.106
+	  64.233.162.99
+	  64.233.162.105
+	  64.233.162.104
+	  64.233.162.147
+	  64.233.162.103
+
+
+===== DISCORD =====
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    discord.com
+Addresses:  162.159.128.233
+	  162.159.137.232
+	  162.159.138.232
+	  162.159.135.232
+	  162.159.136.232
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    discord.gg
+Addresses:  162.159.134.234
+	  162.159.133.234
+	  162.159.136.234
+	  162.159.135.234
+	  162.159.130.234
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    discord.media
+Addresses:  2606:4700:7::a29f:89ea
+	  2606:4700:7::a29f:80eb
+	  2606:4700:7::a29f:82eb
+	  2606:4700:7::a29f:81eb
+	  2606:4700:7::a29f:8aea
+	  162.159.137.234
+	  162.159.129.235
+	  162.159.130.235
+	  162.159.138.234
+	  162.159.128.235
+

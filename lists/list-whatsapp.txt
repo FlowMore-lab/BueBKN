@@ -1,0 +1,84 @@
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+wa.me
+whatsapp.net
+whatsapp-clone.net
+mms.whatsapp.net
+mmg.whatsapp.net
+v.whatsapp.net
+cdn.whatsapp.net
+media.whatsapp.net
+static.whatsapp.net
+g.whatsapp.net
+s.whatsapp.net
+i.whatsapp.com
+call.whatsapp.com
+video.whatsapp.com
+business.whatsapp.com
+api.whatsapp.com
+chat.whatsapp.com
+web.whatsapp.com
+157.240.0.0/16
+179.60.0.0/14
+g.whatsapp.net
+graph.whatsapp.com
+media.fbkk29-1.fna.whatsapp.net
+media.fbkk29-2.fna.whatsapp.net
+media.fbkk29-3.fna.whatsapp.net
+media.fbkk29-4.fna.whatsapp.net
+media.fbkk29-5.fna.whatsapp.net
+media.fbkk29-6.fna.whatsapp.net
+media.fbkk29-7.fna.whatsapp.net
+media.fbkk29-8.fna.whatsapp.net
+media.fbkk29-9.fna.whatsapp.net
+web.whatsapp.com
+whatsapp-cdn-shv-01-amt2.fbcdn.net
+whatsapp-cdn-shv-01-any2.fbcdn.net
+whatsapp-cdn-shv-01-arn2.fbcdn.net
+whatsapp-cdn-shv-01-bru2.fbcdn.net
+whatsapp-cdn-shv-01-hel3.fbcdn.net
+whatsapp.com
+whatsapp.net
+www.whatsapp.com
+www.whatsapp.net
+185.60.0.0/22
+185.76.0.0/22
+204.15.0.0/22
+31.13.0.0/16
+69.171.0.0/16
+66.220.0.0/16
+69.63.0.0/16
+173.252.0.0/16
+108.160.0.0/16
+157.240.22.0 web.whatsapp.com
+157.240.22.0 whatsapp.com
+157.240.22.0 wa.me
+157.240.22.0 cdn.whatsapp.net
+157.240.16.0 media.whatsapp.net
+157.240.16.0 static.whatsapp.net
+157.240.8.0 mmg.whatsapp.net
+157.240.8.0 mms.whatsapp.net
+185.60.216.0 whatsapp.net
+179.60.192.0 api.whatsapp.com
+179.60.192.0 chat.whatsapp.com
+31.13.80.0 business.whatsapp.com
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+wa.me
+whatsapp.net
+mms.whatsapp.net
+mmg.whatsapp.net
+v.whatsapp.net
+cdn.whatsapp.net
+media.whatsapp.net
+static.whatsapp.net
+g.whatsapp.net
+s.whatsapp.net
+i.whatsapp.com
+call.whatsapp.com
+video.whatsapp.com
+business.whatsapp.com
+api.whatsapp.com
+chat.whatsapp.com

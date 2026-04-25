@@ -1,0 +1,43 @@
+telegram.org
+www.telegram.org
+t.me
+web.telegram.org
+webk.telegram.org
+telegram.dog
+telesco.pe
+core.telegram.org
+updates.telegram.org
+mtproto.telegram.org
+pluto.telegram.org
+venus.telegram.org
+aurora.telegram.org
+vega.telegram.org
+mars.telegram.org
+jupiter.telegram.org
+saturn.telegram.org
+uranus.telegram.org
+desktop.telegram.org
+neptune.telegram.org
+149.154.167.220 zws4.web.telegram.org
+149.154.167.220 vesta.web.telegram.org
+149.154.167.220 vesta-1.web.telegram.org
+149.154.167.220 venus-1.web.telegram.org
+149.154.167.220 telegram.me
+149.154.167.220 telegram.dog
+149.154.167.220 telegram.space
+149.154.167.220 telesco.pe
+149.154.167.220 tg.dev
+149.154.167.220 telegram.org
+149.154.167.220 t.me
+149.154.167.220 api.telegram.org
+149.154.167.220 td.telegram.org
+149.154.167.220 venus.web.telegram.org
+149.154.167.220 web.telegram.org
+149.154.167.220 kws2-1.web.telegram.org
+149.154.167.220 kws2.web.telegram.org
+149.154.167.220 kws4-1.web.telegram.org
+149.154.167.220 kws4.web.telegram.org
+149.154.167.220 zws2-1.web.telegram.org
+149.154.167.220 zws2.web.telegram.org
+149.154.167.220 zws4-1.web.telegram.org
+
